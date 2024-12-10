@@ -1,0 +1,10 @@
+colorama==0.4.6
+humanize==4.11.0
+numpy==1.23.5
+orjson==3.10.12
+pandas==2.2.3
+psutil==5.9.8
+Requests==2.32.3
+scikit_learn==1.4.0
+matplotlib
+tqdm
